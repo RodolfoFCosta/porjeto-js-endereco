@@ -71,6 +71,7 @@
          background-color: var(--secondary-bg-color);
          width: 45px;
          height: 45px;
+         line-height: 45px;
          border-radius: 50%;
          text-align: center;
          font-size: 1.2em;
